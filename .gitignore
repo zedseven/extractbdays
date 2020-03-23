@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+
+.idea/*
+calendarid.json
+folderid.json
+credentials.json
+token.json
